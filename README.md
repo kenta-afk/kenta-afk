@@ -6,14 +6,7 @@
 Here are some ideas to get you started:
 ## Stats 🎉
 
-<p align="center">
-    <a href="https://github.com/kenta-afk">
-        <img height=200 align="center" src="https://git-hub-readme-stats-l2xb.vercel.app/api?username=kenta-afk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/kenta-afk">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-afk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"/>
-    </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta-afk&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
