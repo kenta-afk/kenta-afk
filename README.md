@@ -1,14 +1,14 @@
-## Stats 🎉
+
 
 <p align="center">
     <a href="https://github.com/kenta-afk">
-        <img height=200 align="center" src="https://git-hub-readme-stats-l2xb.vercel.app/api?username=kenta-afk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kenta-afk&count_private=true&show_icons=true&theme=dracula"/>
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/kenta-afk">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-afk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&hide=jupyter%20notebook,css,html,scss,ejs"/>
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-afk&layout=compact&theme=dracula"/>
     </a>
 </p>
 
