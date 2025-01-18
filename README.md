@@ -12,17 +12,6 @@
     </a>
 </p>
 
-
-
-
-<p align="center">
-
-  
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=kenta-afk&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenta-afk/kenta-afk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenta-afk/kenta-afk/output/github-contribution-grid-snake.svg">
