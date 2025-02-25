@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/kenta-afk">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-afk&layout=compact&theme=dracula"/>
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-afk&layout=compact&theme=dracula&hide=vue,blade"/>
     </a>
 </p>
 
