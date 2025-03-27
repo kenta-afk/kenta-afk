@@ -18,6 +18,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kenta-afk/kenta-afk/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kenta-afk&theme=dark)](https://git.io/streak-stats)
 
 
