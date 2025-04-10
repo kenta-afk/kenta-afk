@@ -1,16 +1,14 @@
-
+<h1 align="center">Hi 👋, I'm kenta-afk</h1>
+<p align="center">🌱 I’m currently learning <strong>Hono, networking, etc.</strong></p>
 
 <p align="center">
-    <a href="https://github.com/kenta-afk">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kenta-afk&count_private=true&show_icons=true&theme=dracula"/>
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenta-afk&show_icons=true&locale=en&layout=compact&hide=html,css,blade,vue" alt="kenta-afk" />
 </p>
 
 <p align="center">
-    <a href="https://github.com/kenta-afk">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta-afk&layout=compact&theme=dracula&hide=vue,blade,css,html"/>
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kenta-afk&show_icons=true&locale=en" alt="kenta-afk" />
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenta-afk/kenta-afk/output/github-contribution-grid-snake-dark.svg">
