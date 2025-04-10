@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm kenta-afk</h1>
 <p align="center">🌱 I’m currently learning <strong>Hono, networking, etc.</strong></p>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenta-afk&show_icons=true&locale=en&layout=compact&hide=html,css,blade,vue" alt="kenta-afk" />
 </p>
