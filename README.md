@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm kenta-afk</h1>
-<p align="center">🌱 I’m currently learning <strong>Hono, networking, etc.</strong></p>
 
 
 <p align="center">
