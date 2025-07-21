@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenta-afk&show_icons=true&locale=en&layout=compact&hide=html,css,blade,vue" alt="kenta-afk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenta-afk&show_icons=true&locale=en&layout=compact" alt="kenta-afk" />
 </p>
 
 <p align="center">
